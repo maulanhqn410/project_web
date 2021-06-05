@@ -1,0 +1,12 @@
+@import "../../css/header.css";
+@import "../../css/footer.css";
+@import "../../css/banner.css";
+@import "../../css/animation.css";
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

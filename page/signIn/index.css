@@ -1,0 +1,16 @@
+@import "../../css/header.css";
+@import "../../css/footer.css";
+@import "../../css/banner.css";
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#signIn {
+  height: 80vh;
+  padding: 20px 0;
+}

@@ -1,0 +1,15 @@
+#banner .banner-img {
+  height: 400px;
+  background-image: url("../images/slide.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#banner .banner-content {
+  font-size: 40px;
+  color: white;
+  bottom: 20px;
+  right: 40px;
+  animation: moveTitle 1.5s linear;
+  transition: 1s;
+}
